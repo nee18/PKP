@@ -1,0 +1,2 @@
+# PKP
+Praktikum Komputasi Paralel
